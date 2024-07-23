@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Sevenet7Cyr';
+	src: url(../../assets/fonts/Sevenet7Cyr-90070047c6ba01ca2781341cf0b4bd3d.woff2) format('woff2'),
+	url(../../assets/fonts/Sevenet7Cyr-7bd414ac1912c46ae8b9159e1e54c6c7.woff) format('woff'),
+	url(../../assets/fonts/Sevenet7Cyr-c15f65809e84e93fbcfded8fb3877706.ttf) format('truetype');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
